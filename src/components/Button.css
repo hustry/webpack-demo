@@ -1,0 +1,10 @@
+
+.button{
+	background:tomato;
+	color:white;
+}
+
+body{
+	background-image:url('./puppy.jpg');
+	font-family: 'Arial'
+}
